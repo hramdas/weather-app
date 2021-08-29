@@ -1,5 +1,5 @@
 # weather-app
-Created a simple weather app using HTML, CSS, JavaScript and API
+Created a simple weather app using HTML, JavaScript and API
 
 API : https://www.metaweather.com/api/
 
