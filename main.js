@@ -52,9 +52,7 @@ function getWeather(){
 
 }
 
-
-
-
+//Datetime
 function getDate(dateString){
     var days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
     var d = new Date(dateString);
